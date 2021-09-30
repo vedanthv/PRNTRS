@@ -99,11 +99,11 @@ Watch a [**Video Demo**](https://drive.google.com/file/d/1qg76SAA9u1zIOxjDCArnTb
   <br>
   We want to make contributing to this project as easy and as transparent as possible, whether it's:
 
-Reporting a bug 🐛
+- Reporting a bug 🐛
 
-Submitting a fix 🔎
+- Submitting a fix 🔎
 
-Proposing new features 💡
+- Proposing new features 💡
 
 If you wish to contribute to this project, please raise an issue and wait for the project maintainers to approve it or give feedback before making a change.
 
